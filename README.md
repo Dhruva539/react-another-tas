@@ -11,8 +11,7 @@
 
 # React -page implementation
 
-   Component are developed by using react HOOKS. I did not use any external CSS library to create responstive layout . I have used flexbox
-   
+   Component are developed by using react HOOKS. I did not use any external CSS library to create responstive layout . I have used flexbox.   
     _  this react project repo created by using create-react-app  boilerplate project.
     _  created responsive header component with navigation links
     _  created responsibe footer component with details mentioned in mock up screen
